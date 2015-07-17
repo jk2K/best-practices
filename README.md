@@ -4,6 +4,7 @@ A curated list of best practices, strongly inspired by [awesome-awesomeness](htt
 
 - General
 	- [Android](https://github.com/futurice/android-best-practices)
+	- [CSS](https://github.com/sezgi/CSS-Best-Practices)
 	- [HTML](https://github.com/hail2u/html-best-practices)
 	- [iOS](https://github.com/futurice/ios-good-practices)
 	- [Node.js](https://github.com/alanjames1987/Node.js-Best-Practices)
