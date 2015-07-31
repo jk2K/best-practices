@@ -9,6 +9,7 @@ A curated list of best practices, strongly inspired by [awesome-awesomeness](htt
 	- [iOS](https://github.com/futurice/ios-good-practices)
 	- [Node.js](https://github.com/alanjames1987/Node.js-Best-Practices)
 	- [PHP](https://github.com/codeguy/php-the-right-way)
+    - [RESTful](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 	- [Windows](https://github.com/futurice/windows-app-development-best-practices)
 
 ## License
